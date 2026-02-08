@@ -1,7 +1,13 @@
 
+# valentine-day-proposal
+
 ## Live Demo
 
 [View the deployed site on Netlify](https://beamish-treacle-57d025.netlify.app/)
+
+## Screenshot
+
+![App Screenshot](Image.png)
 
 ## Customizing the Message
 
@@ -19,4 +25,4 @@ You can update the text inside the `<h1>`, `<h2>`, `<p>`, button elements, and t
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-# valentine-day-proposal
+
