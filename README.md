@@ -3,16 +3,6 @@
 
 [View the deployed site on Netlify](https://beamish-treacle-57d025.netlify.app/)
 
-#### YouTube Demo
-
-[Watch on YouTube](https://youtu.be/Vb1RtLl5f5U)
-
-<p align="center">
-   <a href="https://youtu.be/Vb1RtLl5f5U">
-      <img src="https://img.youtube.com/vi/Vb1RtLl5f5U/0.jpg" alt="Demo Video Thumbnail" width="480" />
-   </a>
-</p>
-
 ## Customizing the Message
 
 To change the proposal or celebration messages and Giphy images:
